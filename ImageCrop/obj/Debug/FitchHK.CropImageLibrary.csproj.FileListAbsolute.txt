@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Projects\4622 Pacific Place\ImageCrop\ImageCrop\bin\Debug\FitchHK.CropImageLibrary.dll
+C:\Users\User\Documents\Projects\4622 Pacific Place\ImageCrop\ImageCrop\bin\Debug\FitchHK.CropImageLibrary.pdb
+C:\Users\User\Documents\Projects\4622 Pacific Place\ImageCrop\ImageCrop\bin\Debug\Sitecore.Kernel.dll
+C:\Users\User\Documents\Projects\4622 Pacific Place\ImageCrop\ImageCrop\obj\Debug\FitchHK.CropImageLibrary.dll
+C:\Users\User\Documents\Projects\4622 Pacific Place\ImageCrop\ImageCrop\obj\Debug\FitchHK.CropImageLibrary.pdb
+C:\Users\User\Documents\Projects\4622 Pacific Place\ImageCrop\ImageCrop\bin\Debug\FitchHK.SitecoreCommon.dll

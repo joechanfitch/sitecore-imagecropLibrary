@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Projects\4622 Pacific Place\ImageCrop\ImageCrop\bin\Debug\ImageCrop.dll
+C:\Users\User\Documents\Projects\4622 Pacific Place\ImageCrop\ImageCrop\bin\Debug\ImageCrop.pdb
+C:\Users\User\Documents\Projects\4622 Pacific Place\ImageCrop\ImageCrop\bin\Debug\Sitecore.Kernel.dll
+C:\Users\User\Documents\Projects\4622 Pacific Place\ImageCrop\ImageCrop\obj\Debug\ImageCrop.dll
+C:\Users\User\Documents\Projects\4622 Pacific Place\ImageCrop\ImageCrop\obj\Debug\ImageCrop.pdb
